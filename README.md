@@ -19,8 +19,8 @@ Um webapp que conecta turistas e moradores a experiências gastronômicas autên
  
 ### :🎬 Now Featuring
 HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel. Trabalho muito com a premissa de que o código precisa ser tão bonito quanto o design que o sustenta.
-⭐ HTML5 ・ ⭐ CSS3 ・ ⭐ JavaScript ・ ⭐ React ・ ⭐ Git ・ ⭐ GitHub ・ ⭐ Figma
 
+⭐ HTML5 ・ ⭐ CSS3 ・ ⭐ JavaScript ・ ⭐ React ・ ⭐ Git ・ ⭐ GitHub ・ ⭐ Figma
 
 ### 🔮 Vamos conversar?
 Estou sempre trocando ideias sobre tech, branding, design e como a tecnologia pode ser mais humana (e esteticamente agradável). 
