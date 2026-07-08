@@ -1,7 +1,7 @@
 # Oi, eu sou a Gabi. 👋
 
 <div align="center">
-  <img src=["https://private-user-images.githubusercontent.com/301111312/618946778-34b37705-8876-427f-a5f4-5bc45a5748fe.jpg" alt="Banner Gabi Pixel Art" ](https://ibb.co/hxgV0PMT)width="100%" height="200">
+  <img src="https://private-user-images.githubusercontent.com/301111312/618946778-34b37705-8876-427f-a5f4-5bc45a5748fe.jpg" alt="Banner Gabi Pixel Art" (https://ibb.co/hxgV0PMT)width="100%" height="200">
 </div>
 
 ---
