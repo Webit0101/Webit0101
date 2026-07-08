@@ -49,9 +49,7 @@ Trabalho com a premissa de que o código precisa ser tão bonito quanto o design
 ⭐ <strong>GitHub</strong> ・
 ⭐ <strong>Figma</strong>
 </p>
-
     </td>
-
     <td width="35%" align="center">
       <img src="https://i.ibb.co/JWNxVQwB/Gemini-Generated-Image-a4dwsra4dwsra4dw.png"
            width="280"
