@@ -1,3 +1,4 @@
+![Banner Gabi Pixel Art]("C:\Users\Acer\Downloads\82c387769f9306447c918a18fd10691d.jpg")
 # Oi, eu sou a Gabi. 👋
 
 Design e código andando juntos. É assim que eu crio as coisas por aqui. 
