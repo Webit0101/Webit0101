@@ -18,6 +18,3 @@ HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel. T
 ### 🔮 Vamos conversar?
 Estou sempre trocando ideias sobre tech, branding, design e como a tecnologia pode ser mais humana (e esteticamente agradável). 
 
-
-
-*Não sou apenas o que programo. Se quiser falar sobre tarot, estética Y2K/Gothic ou simplesmente sobre como a gente pode construir algo novo, é só chamar.*
