@@ -1,7 +1,7 @@
 # Oi, eu sou a Gabi. 👋
 
 <div align="center">
-  <img src="https://ibb.co/hxgV0PMT" alt="Banner Gabi Pixel Art" width="100%" height="200">
+  <img src="[https://ibb.co/hxgV0PMT](https://i.ibb.co/fVXHJhST/Gemini-Generated-Image-2rlowo2rlowo2rlo.png)" alt="Banner Gabi Pixel Art" width="100%" height="200">
 </div>
 
 Design e código andando juntos. É assim que eu crio as coisas por aqui. 
