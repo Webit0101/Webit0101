@@ -1,7 +1,7 @@
 # Oi, eu sou a Gabi. 👋
 
 <p align="center">
-  <img src="https://i.ibb.co/sdD5jp3Y/4d7985e57b1ed90b9a7e4b603581dce1.jpg" width="100%" height="200" alt="Banner Gabi Pixel Art">
+  <img src="https://i.ibb.co/sdD5jp3Y/4d7985e57b1ed90b9a7e4b603581dce1.jpg https://i.ibb.co/60JNJCXx/Gemini-Generated-Image-9skum29skum29sku.png" width="100%" height="200" alt="Banner Gabi Pixel Art">
 </p>
                                                      
                                                        ⋆｡°✩ ✧ ✩°｡⋆
