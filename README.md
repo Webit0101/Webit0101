@@ -17,8 +17,9 @@ Atualmente, passo a maior parte do meu tempo estudando **Análise e Desenvolvime
 Recentemente, levei o Explore Sabores para o programa de aceleração da **Shell Iniciativa Jovem**.
 Um webapp que conecta turistas e moradores a experiências gastronômicas autênticas, incentivando visitas recorrentes através de um programa de fidelidade.
  
-### Techs usadas por aqui:
+### :🎬 Now Featuring
 HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel. Trabalho muito com a premissa de que o código precisa ser tão bonito quanto o design que o sustenta.
+⭐ HTML5 ・ ⭐ CSS3 ・ ⭐ JavaScript ・ ⭐ React ・ ⭐ Git ・ ⭐ GitHub ・ ⭐ Figma
 
 
 ### 🔮 Vamos conversar?
