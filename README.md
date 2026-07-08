@@ -3,8 +3,9 @@
 <p align="center">
   <img src="https://i.ibb.co/fVXHJhST/Gemini-Generated-Image-2rlowo2rlowo2rlo.png" width="100%" height="200" alt="Banner Gabi Pixel Art">
 </p>
+                                                       ⋆｡°✩ ✧ ✩°｡⋆
 
-Design e código andando juntos. É assim que eu crio as coisas por aqui. 
+                        Design e código andando juntos. É assim que eu crio as coisas por aqui. 
 
 Atualmente, passo a maior parte do meu tempo estudando **Análise e Desenvolvimento de Sistemas** e focando no front-end pelo curso da **EBAC**. O objetivo é simples: tirar ideias da cabeça e fazer elas funcionarem na tela.
 ---
