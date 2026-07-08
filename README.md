@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://i.ibb.co/fVXHJhST/Gemini-Generated-Image-2rlowo2rlowo2rlo.png" width="100%" height="200" alt="Banner Gabi Pixel Art">
 </p>
+                                                     
                                                        ⋆｡°✩ ✧ ✩°｡⋆
 
                         Design e código andando juntos. É assim que eu crio as coisas por aqui. 
