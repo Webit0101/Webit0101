@@ -16,7 +16,6 @@ Nos bastidores, estou cursando Análise e Desenvolvimento de Sistemas e me espec
     <td align="center" width="320">
       <img src="https://i.ibb.co/xKhRLgjs/4dcd6d5691209846b48aa80e4a2f434c.jpg" width="280" alt="Explore Sabores">
     </td>
-
     <td valign="top">
 
 ### 🎬 Now in Production
