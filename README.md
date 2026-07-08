@@ -28,11 +28,10 @@ Atualmente, este é o projeto que ocupa o papel principal na minha jornada. O **
 
 </td>
   </tr>
-</table>
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="65%" valign="top">
 
 ### 🎬 Now Featuring
 
@@ -40,11 +39,11 @@ HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel. T
 
 ⭐ **HTML5** ・ ⭐ **CSS3** ・ ⭐ **JavaScript** ・ ⭐ **React** ・ ⭐ **Git** ・ ⭐ **GitHub** ・ ⭐ **Figma**
 
-   </td>
+    </td>
 
-   <td width="35%" align="center">
+    <td width="35%" align="center">
       <img src="https://i.ibb.co/JWNxVQwB/Gemini-Generated-Image-a4dwsra4dwsra4dw.png" width="300" alt="Tech Stack">
-   </td>
+    </td>
   </tr>
 </table>
 
