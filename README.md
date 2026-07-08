@@ -1,7 +1,9 @@
 # Oi, eu sou a Gabi. 👋
 
+# Oi, eu sou a Gabi. 👋
+
 <div align="center">
-  <img src=" (https://ibb.co/hxgV0PMT)width="100%" height="200">"
+  <img src="https://i.ibb.co/wz845FjP/82c387769f9306447c918a18fd10691d.jpg" alt="Banner Gabi Pixel Art" width="100%" height="200">
 </div>
 
 ---
