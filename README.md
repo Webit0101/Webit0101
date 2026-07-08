@@ -11,12 +11,25 @@
 Nos bastidores, estou cursando Análise e Desenvolvimento de Sistemas e me especializando em Engenharia Front-end pela EBAC. Cada novo aprendizado é mais uma cena na construção da minha trajetória como desenvolvedora, sempre com o mesmo objetivo: transformar ideias em experiências que ganham vida na tela.
 ---
 
-🎬 Now in Production
-🍽️ Explore Sabores
+<table>
+  <tr>
+    <td align="center" width="320">
+      <img src="https://i.ibb.co/xKhRLgjs/4dcd6d5691209846b48aa80e4a2f434c.jpg" width="280" alt="Explore Sabores">
+    </td>
 
-Produzido em parceria com a Shell Iniciativa Jovem.
+    <td valign="top">
 
-Atualmente, este é o projeto que ocupa o papel principal na minha jornada. O Explore Sabores é um webapp criado para conectar turistas e moradores a experiências gastronômicas autênticas, incentivando a descoberta de estabelecimentos locais por meio de um programa de fidelidade.
+### 🎬 Now in Production
+
+#### 🍽️ Explore Sabores
+
+**Produzido em parceria com a Shell Iniciativa Jovem.**
+
+Atualmente, este é o projeto que ocupa o papel principal na minha jornada. O **Explore Sabores** é um webapp criado para conectar turistas e moradores a experiências gastronômicas autênticas, incentivando a descoberta de estabelecimentos locais por meio de um programa de fidelidade.
+
+</td>
+  </tr>
+</table>
  
 ### :🎬 Now Featuring
 HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel. Trabalho muito com a premissa de que o código precisa ser tão bonito quanto o design que o sustenta.
