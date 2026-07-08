@@ -31,18 +31,31 @@ Atualmente, este é o projeto que ocupa o papel principal na minha jornada. O **
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="65%" valign="middle">
 
-### 🎬 Now Featuring
+<h3>🎬 Now Featuring</h3>
 
-HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel. Trabalho com a premissa de que o código precisa ser tão bonito quanto o design que o sustenta.
+<p>
+HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel.
+Trabalho com a premissa de que o código precisa ser tão bonito quanto o design que o sustenta.
+</p>
 
-⭐ **HTML5** ・ ⭐ **CSS3** ・ ⭐ **JavaScript** ・ ⭐ **React** ・ ⭐ **Git** ・ ⭐ **GitHub** ・ ⭐ **Figma**
+<p>
+⭐ <strong>HTML5</strong> ・
+⭐ <strong>CSS3</strong> ・
+⭐ <strong>JavaScript</strong> ・
+⭐ <strong>React</strong> ・
+⭐ <strong>Git</strong> ・
+⭐ <strong>GitHub</strong> ・
+⭐ <strong>Figma</strong>
+</p>
 
     </td>
 
     <td width="35%" align="center">
-      <img src="https://i.ibb.co/JWNxVQwB/Gemini-Generated-Image-a4dwsra4dwsra4dw.png" width="300" alt="Tech Stack">
+      <img src="https://i.ibb.co/JWNxVQwB/Gemini-Generated-Image-a4dwsra4dwsra4dw.png"
+           width="280"
+           alt="Tech Stack">
     </td>
   </tr>
 </table>
