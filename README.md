@@ -62,7 +62,9 @@ Trabalho com a premissa de que o código precisa ser tão bonito quanto o design
 
 Estou sempre trocando ideias sobre tech, branding, design e como a tecnologia pode ser mais humana (e esteticamente agradável). 
 <p align="center">
-  <img src="https://i.ibb.co/YF0kcwWK/Gemini-Generated-Image-akctd0akctd0akct.png" width="100%" height="200" alt="Banner Say Hi">
+  <a href="https://www.linkedin.com/in/victoria-gabriela">
+    <img src="https://i.ibb.co/YF0kcwWK/Gemini-Generated-Image-akctd0akctd0akct.png" alt="Say Hi" width="100%">
+  </a>
 </p>
 
 
