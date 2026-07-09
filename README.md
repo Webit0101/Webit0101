@@ -8,7 +8,9 @@
 
                         Design e código andando juntos. É assim que eu crio as coisas por aqui. 
 
-Nos bastidores, estou cursando Análise e Desenvolvimento de Sistemas e me especializando em Engenharia Front-end pela EBAC. Cada novo aprendizado é mais uma cena na construção da minha trajetória como desenvolvedora, sempre com o mesmo objetivo: transformar ideias em experiências que ganham vida na tela.
+Sou estudante de Análise e Desenvolvimento de Sistemas e  Programação Web pelo Instituto Federal do Rio Grande do Sul (IFRS), além de certificação técnica em Suporte em TI pelo Google. Desenvolvi um aplicativo autoral selecionado no Iniciativa Jovem Shell 2025, considerado um dos principais programas de capacitação empreendedora do Brasil pela UBI global.
+Busco transformar ideias em soluções tecnológicas de impacto e estou aberta a novas oportunidades em inovação e tecnologia.
+
 ---
 
 <table>
