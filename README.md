@@ -34,7 +34,6 @@ Atualmente, este é o projeto que ocupa o papel principal na minha jornada. O **
     <td width="65%" valign="middle">
 
 <h3>Minhas Stacks</h3>
-
 <p>
 HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel.
 Trabalho com a premissa de que o código precisa ser tão bonito quanto o design que o sustenta.
