@@ -33,7 +33,7 @@ Atualmente, este é o projeto que ocupa o papel principal na minha jornada. O **
   <tr>
     <td width="65%" valign="middle">
 
-<h3>🎬 Now Featuring</h3>
+<h3>Minhas Stacks</h3>
 
 <p>
 HTML5, CSS3, JavaScript e o que mais for preciso para o projeto sair do papel.
